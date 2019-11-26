@@ -1,0 +1,9 @@
+{
+  "icon" : "http://icon.png",
+  "cover" : "http://cover.png", 
+  "appName" : "photo eidt",
+  "shortDecripsion" : "Use to edit photo",
+  "package" : "com.mm.photo",
+  "link" : "",
+  "actionText" : "go market"
+}
