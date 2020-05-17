@@ -3,22 +3,22 @@
     {
       "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg",
+      "appName": "Album Cover Creator",
+      "description": "Amazing album art for your music albums or cd covers. Album Cover Creator will surely give a wow factor with this app’s exciting features like overlays and video effects.",
+      "package": "album.cover.creator",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
+      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster2.jpg",
       "appName": "Heart Crown Photo Editor",
       "description": "Look cute girl with hundred of heart crown effect",
       "package": "beautyroom.heart.crown.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
-    },
-    {
-      "icon": "https://seeklogo.com/images/P/picsart-icon-logo-EE8CEAAED8-seeklogo.com.png",
-      "cover": "https://cdn.lynda.com/course/782134/782134-636773541930864641-16x9.jpg",
-      "appName": "Github.com",
-      "description": "See what launched at GitHub Universe\nSay hello to our new GitHub for mobile experience, get more from GitHub Actions and Packages, and learn how we’re shaping the future of software, together.",
-      "package": "",
-      "link": "https://github.com/",
-      "actionText": "Open Link",
-      "type": "media"
     }
   ]
 }
