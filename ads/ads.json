@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster2.jpg",
+      "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/poster2.jpg",
       "appName": "Album Cover Creator",
       "description": "Amazing album art for your music albums or cd covers. Album Cover Creator will surely give a wow factor with this app’s exciting features.",
       "package": "album.cover.creator",
@@ -11,8 +11,8 @@
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/beautyphoto/master/ads/poster.jpg",
+      "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/poster.jpg",
       "appName": "Heart Crown Photo Editor",
       "description": "Look cute girl with hundred of heart crown effect",
       "package": "beautyroom.heart.crown.editor",
