@@ -7,9 +7,9 @@
       "am_na": "ko00ANdpNBl0AXQBImu6xQX76aOEY5YCttTc+F3Z+HZFcEH2wvEkJiUTtc7d6JtL",
 	"ads_list": [
         "sa",
-        "am",
-	"disable_sa":true
-      ]
+        "am"
+      ],
+	"disable_sa":false
     },
 "beauty.shop.live.face.camera.snappy.photos.live.filters": {
       "am_ba": "5JVdJmxP6mMwL6uxCdTMzpyQp4wYKIqepxHX0kTn5L54vcWN+ejsq5uAF07b5+lm",
