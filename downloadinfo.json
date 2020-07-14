@@ -1,6 +1,6 @@
 [
   {
-"beauty.shop.starlight.photo.editor": {
+"beauty.shop.starlight.photo.editor.test": {
       "am_ba": "ko00ANdpNBl0AXQBImu6xc8nFj7ZdCYetQeEcLYAzzqqFaYTBA6IlU3BAsssSXHY",
       "am_in": "ko00ANdpNBl0AXQBImu6xRs0WhldqPCSoeLkxEjW30L8XqajGAhsN+9KCEfW1hME",
       "am_vi": "ko00ANdpNBl0AXQBImu6xdoErhwPO+IY6bXj3btGGuu6HzcHGyt+ByDRuRf0i2Ez",
@@ -8,8 +8,7 @@
 	"ads_list": [
         "sa",
         "am"
-      ],
-	"disable_sa":false
+      ]
     },
 "beauty.shop.live.face.camera.snappy.photos.live.filters": {
       "am_ba": "5JVdJmxP6mMwL6uxCdTMzpyQp4wYKIqepxHX0kTn5L54vcWN+ejsq5uAF07b5+lm",
