@@ -1,11 +1,12 @@
 [
   {
   	"beauty.shop.medical.face.mask.photo.editor": {
-      "am_ba": "kv1Z0rd9HXl7QSicfo5SLEFg6zWm0H3lrEbTURpHPdhOCqsbjR3q1Kx1YMyTQP5u",
-      "am_in": "kv1Z0rd9HXl7QSicfo5SLGgBLFtx//7RRvkHRKfxp0Dj0pqo7jQoA1qfwdK5C5bk",
-      "am_vi": "kv1Z0rd9HXl7QSicfo5SLPVbqg9xXqtUKbV7CoQj0aIPziSGntUs011Xlsmp36Nh",
-      "am_na": "kv1Z0rd9HXl7QSicfo5SLNMW1eh1SyHTbEOXKCIIUVoHDZ6w/X0kgPUKMiv1OV4L",
-	"ads_list": ["am"]
+       "fb_ba": "i29zz/r497P2CRBFXlbDW8diA8GYxxAsV+WdL13btkRtfJzu9BSto0t6iCYK/2Ak",
+      "fb_in": "i29zz/r497P2CRBFXlbDW1H9RvQ1hzwi794074RZIAngJvv/rH7THbT0Xa0q5nQP",
+      "fb_re": "i29zz/r497P2CRBFXlbDW+gchle+u5Gsxytn2fT6C3s5ybcgIdr/IYoM+zs7dqmJ",
+      "fb_na": "i29zz/r497P2CRBFXlbDW74YwJpJG356nw1n+HXjlSbURwHLimoWJzLv5GTa41RH",
+
+	"ads_list": ["fb"]
     },
 "beauty.shop.starlight.photo.editor.test": {
       "am_ba": "ko00ANdpNBl0AXQBImu6xc8nFj7ZdCYetQeEcLYAzzqqFaYTBA6IlU3BAsssSXHY",
