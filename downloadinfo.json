@@ -5,7 +5,12 @@
         "am_in": "iBkHu3XCevhPELf/90VB36MXlIDhSQzjXAakR8qSF8CVIJUIApGnQEiWU5J0F4+e",
         "am_na": "iBkHu3XCevhPELf/90VB37BjpDHxx1F5zlfGmuHLKUNjHD0N9F4qwssZHNgKOxIU",
 
-        "ads_list": ["am"]
+        "fb_ba": "Z5RgxJSHxthYyA2FJrUeXLqNIOU6xc0/0Jzv29mn0gE=",
+        "fb_in": "Z5RgxJSHxthYyA2FJrUeXLyHII3GOOvZJBeHV1BxDcE=",
+        "fb_re": "Z5RgxJSHxthYyA2FJrUeXAV6s5DT4QezTwnncnPxbJk=",
+        "fb_na": "Z5RgxJSHxthYyA2FJrUeXK6cypS1K+9CN2qDD7hLTyc=",
+
+        "ads_list": ["fb", "am"]
     },
   	"beauty.shop.medical.face.mask.photo.editor": {
        "fb_ba": "i29zz/r497P2CRBFXlbDW8diA8GYxxAsV+WdL13btkRtfJzu9BSto0t6iCYK/2Ak",
