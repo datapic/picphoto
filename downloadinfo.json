@@ -1,9 +1,17 @@
 [
   {
+  	"beauty.shop.hair.color.changer.different.hair.colors": {
+        "am_ba": "hp5bpcUqux3ljiNKvl5Fps2t1wKouyyABbrACTV/TUePhAhKx+7G4CK09jIE+R+b",
+        "am_in": "hp5bpcUqux3ljiNKvl5Fprs6nAZb70ZpBEFHSWZFRgBvDpfSZkruVCMupw/tKaJN",
+        "am_na": "hp5bpcUqux3ljiNKvl5FptC4o9v4rz4+QUR7EeZP0Y6h62Vn12vSryCq4HgA4DGU",
+
+        "ads_list": ["am"]
+    },
+
   	"beauty.shop.sweet.snap.beauty.selfie.camera.face.filter": {
-        "am_ba": "yGh6xlM8sm12FEl+7kft6whn2JLAGLPJ8BNhgxw/5U5yWYB5Uaw5hDRghnT/RJaO",
-        "am_in": "yGh6xlM8sm12FEl+7kft6xvMfiFhrsRPR23vWwqc5JV3oOjRzVZe6b3RtqSxvRd2",
-        "am_na": "yGh6xlM8sm12FEl+7kft6wbUY6X6wPEcdCgrM3yySmSivMXY/wYiW3hd3AZ1KrRq",
+        "am_ba": "hp5bpcUqux3ljiNKvl5FpkHUp4Zxk5+J5TyJsG8FlrKGCu9noF7t9gUCASy4WIOb",
+        "am_in": "hp5bpcUqux3ljiNKvl5FpgiIqWY6v1GiuTY7v/kG+Mwn9O7VvPgFwz5XOLB+Qa5h",
+        "am_na": "hp5bpcUqux3ljiNKvl5Fpj1WrjWckSs3J213v8PLSOaCl+yszRiZUzpVve24gth/",
 
         "ads_list": ["am"]
     },
