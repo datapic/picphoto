@@ -1,5 +1,13 @@
 [
   {
+  	"beauty.shop.emoji.background.photo.editor.app": {
+        "am_ba": "vpUoALdyVyMFIRkZ7aexW4+aNwakM4L2BQycP8QttNAqzSwJ1g9rdWJOz/m8PbYX",
+        "am_in": "vpUoALdyVyMFIRkZ7aexW8mifxUuucAwloPLlDweR4AT3HXxvWXfJTIRGxvIePoM",
+        "am_na": "vpUoALdyVyMFIRkZ7aexW6UE6J+3991qZ+aNL0tlW0dSqZPJhpgqG1meIdDEJ/Rv",
+
+        "ads_list": ["am"]
+    },
+
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "hp5bpcUqux3ljiNKvl5Fps2t1wKouyyABbrACTV/TUePhAhKx+7G4CK09jIE+R+b",
         "am_in": "hp5bpcUqux3ljiNKvl5Fprs6nAZb70ZpBEFHSWZFRgBvDpfSZkruVCMupw/tKaJN",
