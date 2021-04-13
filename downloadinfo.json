@@ -1,12 +1,5 @@
 [
   {
-  	"beauty.shop.emoji.background.photo.editor.app": {
-        "am_ba": "vpUoALdyVyMFIRkZ7aexW4+aNwakM4L2BQycP8QttNAqzSwJ1g9rdWJOz/m8PbYX",
-        "am_in": "vpUoALdyVyMFIRkZ7aexW8mifxUuucAwloPLlDweR4AT3HXxvWXfJTIRGxvIePoM",
-        "am_na": "vpUoALdyVyMFIRkZ7aexW6UE6J+3991qZ+aNL0tlW0dSqZPJhpgqG1meIdDEJ/Rv",
-
-        "ads_list": ["am"]
-    },
 
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "",
@@ -20,55 +13,6 @@
 
         "ads_list": ["fb"]
     },
-
-  	"beauty.shop.sweet.snap.beauty.selfie.camera.face.filter": {
-        "am_ba": "",
-        "am_in": "",
-        "am_na": "",
-
-         "fb_ba": "Yc7IjQ8Z0rikDXhdOEIaGzx8iaOA2RVeoDpgaMu9TpTtpA1vBtH7Ui/h+37V1ntf",
-        "fb_in": "Yc7IjQ8Z0rikDXhdOEIaG1nclF2nnOIvRzElcW/NVNUEh2Yid47Zf83quJ2VqqCO",
-        "fb_re": "Yc7IjQ8Z0rikDXhdOEIaG23m1Ah2fN5CbqyZVUmpHDHPXzZWE9Yh3bfK+cZ/rqnM",
-        "fb_na": "Yc7IjQ8Z0rikDXhdOEIaG1d6MXxGGau8cXxhySyjBdPXLEloTMEEGfUBDmwomyk7",
-
-        "ads_list": ["fb"]
-    },
-
-    "beauty.shop.filters.snapchat": {
-        "am_ba": "yGh6xlM8sm12FEl+7kft6weWIIEQrN7Hdd3nBwJBCMhB4FCWJm9Nv5RJuYQeLsKb",
-        "am_in": "yGh6xlM8sm12FEl+7kft6/N8RM913TSB/x1pCZ6D+sr6IDJyZe5CqYy/nwE7DKzW",
-        "am_na": "yGh6xlM8sm12FEl+7kft68MI+9e6sUcMFXeP1xGjTQlKhB97wVdtCjjrrKHfk71N",
-
-        "fb_ba": "Z5RgxJSHxthYyA2FJrUeXLqNIOU6xc0/0Jzv29mn0gE=",
-        "fb_in": "Z5RgxJSHxthYyA2FJrUeXLyHII3GOOvZJBeHV1BxDcE=",
-        "fb_re": "Z5RgxJSHxthYyA2FJrUeXAV6s5DT4QezTwnncnPxbJk=",
-        "fb_na": "Z5RgxJSHxthYyA2FJrUeXK6cypS1K+9CN2qDD7hLTyc=",
-
-        "ads_list": ["fb", "am"]
-    },
-  	"beauty.shop.medical.face.mask.photo.editor": {
-       "fb_ba": "i29zz/r497P2CRBFXlbDW8diA8GYxxAsV+WdL13btkRtfJzu9BSto0t6iCYK/2Ak",
-      "fb_in": "i29zz/r497P2CRBFXlbDW1H9RvQ1hzwi794074RZIAngJvv/rH7THbT0Xa0q5nQP",
-      "fb_re": "i29zz/r497P2CRBFXlbDW+gchle+u5Gsxytn2fT6C3s5ybcgIdr/IYoM+zs7dqmJ",
-      "fb_na": "i29zz/r497P2CRBFXlbDW74YwJpJG356nw1n+HXjlSbURwHLimoWJzLv5GTa41RH",
-
-	"ads_list": ["fb"]
-    },
-"beauty.shop.starlight.photo.editor.test": {
-      "am_ba": "ko00ANdpNBl0AXQBImu6xc8nFj7ZdCYetQeEcLYAzzqqFaYTBA6IlU3BAsssSXHY",
-      "am_in": "ko00ANdpNBl0AXQBImu6xRs0WhldqPCSoeLkxEjW30L8XqajGAhsN+9KCEfW1hME",
-      "am_na": "ko00ANdpNBl0AXQBImu6xQX76aOEY5YCttTc+F3Z+HZFcEH2wvEkJiUTtc7d6JtL",
-	"ads_list": [
-        "sa",
-        "am"
-      ]
-    },
-"beauty.shop.live.face.camera.snappy.photos.live.filters": {
-      "am_ba": "5JVdJmxP6mMwL6uxCdTMzpyQp4wYKIqepxHX0kTn5L54vcWN+ejsq5uAF07b5+lm",
-      "am_in": "5JVdJmxP6mMwL6uxCdTMzqVSLhgQ+JHGNF8Lp/pCvE/4b4PN1+dmef5XNnT0mSUx",
-      "am_na": "5JVdJmxP6mMwL6uxCdTMzkSDEopNb1krEZFezKymTIRu43b0LlMhG6tk+11lYh36"
-    },
-
     "com.beauty.photo.editor": {
       "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
       "am_in": "Rn0pSEgDeaQjcI0NNQY3RdAwPxprT3rXQQc0V2PZvjZ26wfY+rFIr8Gk9KWK30R+",
@@ -76,10 +20,7 @@
     }
   },{
 "common": {
-      "ads_list": [
-        "am","sa"
-      ],
-	"disable_sa":false}
+	"disable_sa":true}
 	
  }
 ]
