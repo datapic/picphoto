@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/graphic.png",
-      "appName": "Emoji Background Photo Editor",
+      "appName": "Filters for Snapchat",
       "description": "Lets you edit your pictures to make them looks super kawaii and cute with a thousand of emoji (light crown, dog face, heart face, sweet face...)",
-      "package": "sweet.candy.emoji.background.photo.editor",
+      "package": "chu.sweet.snap.filters.snapchat",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
