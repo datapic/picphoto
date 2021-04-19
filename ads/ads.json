@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/graphic.png",
-      "appName": "Sweet Snap Camera Lite",
-      "description": "Sweet Snap Camera is the best choice for you if you are looking for an outstanding selfie filter camera!",
-      "package": "sweet.snap.art.camera.lite.snap.cat.face.camera",
+      "cover": "https://raw.githubusercontent.com/datapic/picphoto/master/ads/graphic.jpg",
+      "appName": "Heart Crown Photo Editor",
+      "description": "Heart Crown Photo Editor is the best choice for you if you are looking for an outstanding selfie filter camera!",
+      "package": "beautyroom.heart.crown.editor",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
