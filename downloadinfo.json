@@ -1,6 +1,19 @@
 [
   {
+    "beauty.shop.neon.horns.devil": {
+        "am_ba": "EvNHCi2mxFhAHU3NEv1Y/9KRY/i2KXo9sOZEJL7xF1N4ynetv6RRAt3IDYEYQVLn",
+        "am_in": "EvNHCi2mxFhAHU3NEv1Y/yuQvnWS4dmlh1ber3OkTpj1mTpLdGWVr4CTyx7F/IoL",
+        "am_na": "EvNHCi2mxFhAHU3NEv1Y/5SWU6OVBKW7bT/onLoY6jAkRcFG2V8mi58OvgEz0ySk",
 
+        "ads_list": ["am"]
+    },
+    "beauty.shop.makeup.camera.selfie": {
+        "am_ba": "EvNHCi2mxFhAHU3NEv1Y/1P6E7aT/TPyi1lgz7uSObnqKq+6eTRvJqaLsCutoKwM",
+        "am_in": "EvNHCi2mxFhAHU3NEv1Y/zERow+32t4mUsVutVQvBX5/wTWEsDxfn09hOt6ZUQnx",
+        "am_na": "EvNHCi2mxFhAHU3NEv1Y//zziffkK8xlmuuMkY/5worinBKLlttGCG17EH+NxDo7",
+
+        "ads_list": ["am"]
+    },
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "",
         "am_in": "",
