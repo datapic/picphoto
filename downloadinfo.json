@@ -5,14 +5,25 @@
         "am_in": "EvNHCi2mxFhAHU3NEv1Y/yuQvnWS4dmlh1ber3OkTpj1mTpLdGWVr4CTyx7F/IoL",
         "am_na": "EvNHCi2mxFhAHU3NEv1Y/5SWU6OVBKW7bT/onLoY6jAkRcFG2V8mi58OvgEz0ySk",
 
-        "ads_list": ["am"]
+        "mp_ba": "jlRfi/rbfUskPOiVIKxxBBQjbGL4GJbXqer75wwEWRwgXBeOT+LlVwtX2N4CLRxt",
+        "mp_re": "G1Jkr+yfhlcShfpEw/Wjx/0b7xlQbLz9qdawm0IYiTuL8PiQFr78vz+Ti2oJSJ4U",
+        "mp_in": "5WUjz1T80J4x8eNaoi1rPVKp+nXsaRrpBY+SYOIg0slgSBp7/Do3848na/fAg2cr",
+        "mp_na": "op5hch/26H9+sCzVu5QpGhVv862j5EbIGGevUFBytKiaq25XWHqHci5qUhkPfo8f",
+
+        "ads_list": ["mp", "am"]
     },
     "beauty.shop.makeup.camera.selfie": {
         "am_ba": "EvNHCi2mxFhAHU3NEv1Y/1P6E7aT/TPyi1lgz7uSObnqKq+6eTRvJqaLsCutoKwM",
         "am_in": "EvNHCi2mxFhAHU3NEv1Y/zERow+32t4mUsVutVQvBX5/wTWEsDxfn09hOt6ZUQnx",
         "am_na": "EvNHCi2mxFhAHU3NEv1Y//zziffkK8xlmuuMkY/5worinBKLlttGCG17EH+NxDo7",
 
-        "ads_list": ["am"]
+        "mp_ba": "jlRfi/rbfUskPOiVIKxxBBQjbGL4GJbXqer75wwEWRwgXBeOT+LlVwtX2N4CLRxt",
+        "mp_re": "G1Jkr+yfhlcShfpEw/Wjx/0b7xlQbLz9qdawm0IYiTuL8PiQFr78vz+Ti2oJSJ4U",
+        "mp_in": "5WUjz1T80J4x8eNaoi1rPVKp+nXsaRrpBY+SYOIg0slgSBp7/Do3848na/fAg2cr",
+        "mp_na": "op5hch/26H9+sCzVu5QpGhVv862j5EbIGGevUFBytKiaq25XWHqHci5qUhkPfo8f",
+
+
+        "ads_list": ["mp", "am"]
     },
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "",
