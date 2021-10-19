@@ -22,8 +22,12 @@
         "mp_in": "TwGQdxCK2p6ZEUk99IWHcqgSIingw/xMIG2o6GjUnjf1jcdauF0+at6oD5HuDQOr",
         "mp_na": "M/rZ+p5WB7VRIVzjLIJt9JoWU5GMEmn2J3gNLmjxsKUHzjepRmOlXpuK2EwPndMx",
 
+         "fb_ba": "ilCOavjmSiK5toDQXLceDFHjiPP4izy/Dna+oWN69CE=",
+        "fb_in": "ilCOavjmSiK5toDQXLceDLwqwkjm42QPLMX/4gCdRbo=",
+        "fb_re": "ilCOavjmSiK5toDQXLceDMaCeDhybxh/UCNaxnYUSUw=",
+        "fb_na": "ilCOavjmSiK5toDQXLceDLZAFfMSyfVwypTzlWg9jNQ=",
 
-        "ads_list": ["mp", "am"]
+        "ads_list": ["fb", "mp", "am"]
     },
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "",
