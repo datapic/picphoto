@@ -27,7 +27,7 @@
         "fb_re": "ilCOavjmSiK5toDQXLceDMaCeDhybxh/UCNaxnYUSUw=",
         "fb_na": "ilCOavjmSiK5toDQXLceDLZAFfMSyfVwypTzlWg9jNQ=",
 
-        "ads_list": ["fb", "mp", "am"]
+        "ads_list": ["mp", "am", "fb"]
     },
   	"beauty.shop.hair.color.changer.different.hair.colors": {
         "am_ba": "",
@@ -44,7 +44,7 @@
         "mp_in": "lxO/MlxKjH1D9cyeVmmadZVQk3Xl7BbAsXlKOIYFrN71zuHwcRr+6JCfWXgnwjl5",
         "mp_na": "g63Twt3NALIMwp+WTI+OXv36RR8tbgesdYsK6BtEJIZNn4nsuBHBUbywv1vY3vEJ",
 
-        "ads_list": ["fb", "mp", "am"]
+        "ads_list": ["mp", "am", "fb"]
     },
     "com.beauty.photo.editor": {
       "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
